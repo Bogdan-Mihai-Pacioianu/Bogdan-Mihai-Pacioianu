@@ -1,11 +1,16 @@
-- 👋 Hi, I’m @Bogdan-Mihai-Pacioianu
-- 👀 I’m interested in data engineering and big data technologies.
-- 🌱 I’m currently learning advanced techniques in data processing and analysis using Azure, Databricks, and PySpark.
-- 💞️ I’m looking to collaborate or work in a team to evolve my skills and contribute to impactful projects.
-- 📫 How to reach me: email: bogdanmihai.pacio@icloud.com 
-- 😄 Pronouns: he
-- ⚡ Fun fact: I enjoy solving challenging data problems and love exploring new tools and methodologies in data engineering.
+👋 Hi, I'm Bogdan-Mihai Pacioianu.
 
-Languages and Tools:
-- Languages: Python, SQL, Java
-- Tools and Platforms: Full Azure Suite, Databricks, PySpark
+Expertise Domain: Data Engineering and Big Data Technologies.
+
+Core Competencies: Proficient in advanced techniques for data processing and analysis, utilizing platforms such as Azure, Databricks, and PySpark.
+
+Contact: You can reach me via email at: bogdanmihai.pacio@icloud.com
+
+Pronouns: He/Him
+
+Interests: I am passionate about solving complex data challenges and actively exploring new tools and methodologies in the field of Data Engineering.
+
+🛠️ Languages and Tools
+Languages: Python, SQL, Java
+
+Tools & Platforms: Full Azure Suite, Databricks, PySpark
