@@ -11,6 +11,6 @@ Pronouns: He/Him
 Interests: I am passionate about solving complex data challenges and actively exploring new tools and methodologies in the field of Data Engineering.
 
 🛠️ Languages and Tools
-Languages: Python, SQL, Java
+Languages: Python, SQL, Spark, Java
 
 Tools & Platforms: Full Azure Suite, Databricks, PySpark
